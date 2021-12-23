@@ -8,3 +8,4 @@ High quality pandas cheatsheet for data manipulation
 + [Using Pandas Method Chaining to improve code readability](https://towardsdatascience.com/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac)
 + [Pandas Cheat Sheet — Python for Data Science](https://www.dataquest.io/blog/pandas-cheat-sheet/) by [DataQuest](https://www.dataquest.io/)
 + [Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) @ https://pandas.pydata.org/
++ [Use Pandas Groupby to Group and Summarise DataFrames](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/) by [Shane Lynn](https://www.shanelynn.ie/)
